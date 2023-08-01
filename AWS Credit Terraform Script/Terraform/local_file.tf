@@ -1,0 +1,51 @@
+resource "local_file" "file" {
+  filename = "account.txt"
+  content  = <<EOF
+  ${aws_organizations_account.aws3.id}
+  ${aws_organizations_account.aws4.id}
+  ${aws_organizations_account.aws5.id}
+  ${aws_organizations_account.aws6.id}
+  ${aws_organizations_account.aws7.id}
+  ${aws_organizations_account.aws8.id}
+  ${aws_organizations_account.aws9.id}
+  ${aws_organizations_account.aws10.id}
+  ${aws_organizations_account.aws11.id}
+  ${aws_organizations_account.aws12.id}
+  ${aws_organizations_account.aws13.id}
+  ${aws_organizations_account.aws14.id}
+  ${aws_organizations_account.aws15.id}
+  ${aws_organizations_account.aws16.id}
+  ${aws_organizations_account.aws17.id}
+  ${aws_organizations_account.aws18.id}
+  ${aws_organizations_account.aws19.id}
+  ${aws_organizations_account.aws21.id}
+  ${aws_organizations_account.aws22.id}
+  ${aws_organizations_account.aws23.id}
+  ${aws_organizations_account.aws24.id}
+  ${aws_organizations_account.aws25.id}
+  ${aws_organizations_account.aws27.id}
+  ${aws_organizations_account.aws28.id}
+  ${aws_organizations_account.aws29.id}
+  ${aws_organizations_account.aws30.id}
+  ${aws_organizations_account.aws31.id}
+  ${aws_organizations_account.aws32.id}
+  ${aws_organizations_account.aws33.id}
+  ${aws_organizations_account.aws34.id}
+  ${aws_organizations_account.aws35.id}
+  ${aws_organizations_account.aws36.id}
+  ${aws_organizations_account.aws37.id}
+  ${aws_organizations_account.aws38.id}
+  ${aws_organizations_account.aws39.id}
+  ${aws_organizations_account.aws40.id}
+  ${aws_organizations_account.aws41.id}
+  ${aws_organizations_account.aws42.id}
+  ${aws_organizations_account.aws43.id}
+  ${aws_organizations_account.aws44.id}
+  ${aws_organizations_account.aws45.id}
+  ${aws_organizations_account.aws46.id}
+  ${aws_organizations_account.aws47.id}
+  ${aws_organizations_account.aws48.id}
+  ${aws_organizations_account.aws49.id}
+
+EOF
+}

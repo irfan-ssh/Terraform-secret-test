@@ -1,0 +1,6 @@
+account_id   = "091021436929"
+region       = "us-east-1"
+secret_key_id   = "AKIARKMKM5AAXDF7A3VL"
+access_key_id   = "lrDF5lVpcvqYwEhA3E+SUlaFpve4X9KU6RfLHb2x"
+email_name   = "alexnoh"
+email_domain = "merepost.com"
