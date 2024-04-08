@@ -1,2 +1,2 @@
-  [aws1]
-  AKIA5BSEGQUERLZFXZVE   jvdUiXj4tL4tNog5S36isJ3xWqGDw7oXOJXEEqCE
+  [aws]
+  xxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
